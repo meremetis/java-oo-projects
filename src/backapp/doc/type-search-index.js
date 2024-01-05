@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"gr.aueb.cf.ch12.exercises.exe2.backapp.model","l":"Holder"},{"p":"gr.aueb.cf.ch12.exercises.exe2.backapp.model","l":"JointAccount"},{"p":"gr.aueb.cf.ch12.exercises.exe2.backapp","l":"Main"},{"p":"gr.aueb.cf.ch12.exercises.exe2.backapp.model","l":"OverdraftAccount"}]
